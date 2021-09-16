@@ -3,8 +3,6 @@ Dan Boneh 教授的Cryptography I，笔记自学自用，部分知识点理解�
 
 gitee同步地址：https://gitee.com/Snowolf29/cryptography-i-dan-boneh.git
 
-所有rar文件解压到同一个文件夹下
-
 Dan Boneh教授的Cryptography I课程，自学笔记，部分理解有疏漏，欢迎指正
 
 image文件夹为笔记图片
