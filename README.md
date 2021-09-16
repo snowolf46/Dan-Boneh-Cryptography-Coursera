@@ -1,4 +1,4 @@
-# Dan-Boneh-Cryptography-Coursera
+# Dan-Boneh-Cryptography I-Coursera
 Dan Boneh 教授的Cryptography I，笔记自学自用，部分知识点理解有误，欢迎指出
 
 gitee同步地址(尚未上传完成)：https://gitee.com/Snowolf29/cryptography-i-dan-boneh.git
