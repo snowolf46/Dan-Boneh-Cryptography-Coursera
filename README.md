@@ -1,7 +1,7 @@
 # Dan-Boneh-Cryptography I-Coursera
 Dan Boneh 教授的Cryptography I，笔记自学自用，部分知识点理解有误，欢迎指出
 
-gitee同步地址(尚未上传完成)：https://gitee.com/Snowolf29/cryptography-i-dan-boneh.git
+gitee同步地址(已上传完成)：https://gitee.com/Snowolf29/cryptography-i-dan-boneh.git
 
 Dan Boneh教授的Cryptography I课程，自学笔记，部分理解有疏漏，欢迎指正
 
